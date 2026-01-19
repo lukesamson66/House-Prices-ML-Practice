@@ -14,3 +14,10 @@ A Pandas DataFrame df with:
 size_sqft (float)
 num_rooms (int)
 price (float)
+
+Task
+
+1. Split the data into 80% train / 20% test
+2. Apply Standard Scaling to features
+3. Train a LinearRegression model
+4. Compute Mean Squared Error
