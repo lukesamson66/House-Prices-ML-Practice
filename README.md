@@ -2,7 +2,7 @@ This repo contains ML practice problems to complete in order to improve ML skill
 
 
 
-Problem 1: Feature Scaling and Linear Regression Evaluation
+**Problem 1: Feature Scaling and Linear Regression Evaluation**
 
 Problem Statement
 
@@ -30,7 +30,7 @@ Task
 
 
 
-Problem 2: Binary Classification with Logistic Regression
+**Problem 2: Binary Classification with Logistic Regression**
 
 Problem Statement
 
